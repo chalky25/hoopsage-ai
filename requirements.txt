@@ -1,0 +1,7 @@
+nba_api
+pandas
+matplotlib
+python-dotenv
+openai
+requests
+mplcursors 
